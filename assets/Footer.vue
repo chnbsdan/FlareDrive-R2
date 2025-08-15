@@ -21,11 +21,11 @@
 
     <div class="project-links">
       <strong>BSDAN:</strong><a href="https://newsnow.hangdn.com/" target="_blank"
-        rel="noopener noreferrer">FlareDrive-R2</a>
+        rel="noopener noreferrer">newsnow</a>
       <strong>采购批发:</strong><a href="https:/szhddz.1688.com" target="_blank"
-        rel="noopener noreferrer">LiuShen</a>
-      <strong>智能家居制造商:</strong><a href="https://github.com/ljxi/Cloudflare-R2-oss" target="_blank"
-        rel="noopener noreferrer">Cloudflare-R2-OSS</a>
+        rel="noopener noreferrer">hangdn</a>
+      <strong>智能家居制造商:</strong><a href="https://www.hangdn.com/" target="_blank"
+        rel="noopener noreferrer">航丹电子</a>
     </div>
 
     <div class="powered">Powered by <a href="https://workers.cloudflare.com/" target="_blank"
