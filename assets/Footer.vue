@@ -21,9 +21,9 @@
 
     <div class="project-links">
       <strong>BSDAN:</strong><a href="https://newsnow.hangdn.com/" target="_blank"
-        rel="noopener noreferrer">newsnow</a>
-      <strong>采购批发:</strong><a href="https:/szhddz.1688.com" target="_blank"
-        rel="noopener noreferrer">hangdn</a>
+        rel="noopener noreferrer">NewsNow</a>
+      <strong>采购批发:</strong><a href="https://szhddz.1688.com" target="_blank"
+        rel="noopener noreferrer">HANGDN</a>
       <strong>智能家居制造商:</strong><a href="https://www.hangdn.com/" target="_blank"
         rel="noopener noreferrer">航丹电子</a>
     </div>
