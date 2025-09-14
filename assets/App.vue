@@ -210,7 +210,7 @@ export default {
     showUploadPopup: false,
     uploadProgress: null,
     uploadQueue: [],
-    backgroundImageUrl: "https://tc.1356666.xyz/file/1751375155852_2039852.jpg"
+    backgroundImageUrl: "https://img.hangdn.com/hexo/girl.webp"
   }),
 
   computed: {
