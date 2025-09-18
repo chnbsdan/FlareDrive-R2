@@ -21,7 +21,7 @@
 
     <div class="project-links">
       <strong>BSDAN:</strong><a href="https://1356666.xyz/" target="_blank"
-        rel="noopener noreferrer">BSDAN</a>
+        rel="noopener noreferrer">Blog</a>
       <strong>采购批发:</strong><a href="https://szhddz.1688.com" target="_blank"
         rel="noopener noreferrer">HANGDN</a>
       <strong>智能家居制造商:</strong><a href="https://www.hangdn.com/" target="_blank"
