@@ -17,8 +17,8 @@
     </button>
     <div class="app-bar">
       <a class="app-title-container" style="display: flex; align-items: center;" href="/">
-        <img src="/assets/homescreen.png" alt="BSDAN BED" style="height: 24px" />
-        <h1 class="app-title" style="font-size: 20px;margin: 0 25px 0 8px; user-select: none;">BSDAN BED</h1>
+        <img src="/assets/homescreen.png" alt="BSDANBED" style="height: 24px" />
+        <h1 class="app-title" style="font-size: 20px;margin: 0 25px 0 8px; user-select: none;">BSDANBED</h1>
       </a>
 
       <input type="search" v-model="search" aria-label="Search" placeholder="🍿请尊守当地的法律法规，切勿上乱传文件，输入以全局搜索文件" />
